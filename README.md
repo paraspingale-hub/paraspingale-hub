@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Paras Rahul Pingale 👋
+----
+**Artificial Intelligence and Data Science Student** from Pune, India — focused on Deep Learning architectures, Computer Vision, and full-stack AI applications.
+I specialize in building intelligent systems that solve real-world problems, ranging from waste management to agricultural diagnostics.
+Currently open to **Machine Learning Internships** and **Data Science** roles.
 
-<!--
-**paraspingale-hub/paraspingale-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 💻 Skills
 
-Here are some ideas to get you started:
+* **Languages**: Python, Java, C++, C, Go
+* **AI/ML/DL**: CNN, RNN, LSTM , Transformer, RAG
+* **Tools**: OpenCV, SQL, GitHub, Canva , VSCode
+* **Interests**: Photography
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📫 Connect with me
+
+* **Email**: paraspingles@gmail.com
+---
