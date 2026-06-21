@@ -17,5 +17,5 @@ Currently open to **Machine Learning Internships** and **Data Science** roles.
 ### 📫 Connect with me
 
 * **Email**: paraspingles@gmail.com
-* **Contact: +91 9518560080
+* **Contact**: +91 9518560080
 ---
